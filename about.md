@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: Wesley Uykimpang
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hello peeps, 
 
-If you have a question about him or else, just send a letter to him.
+I'm a person amazed by technology. It's fascinating we can find mathematical patterns and represent them using technology to achieve a particular purpose. This blog hopes to detail some of that fascination along with some practical tutorials and advice on accomplishing narrowly focused objectives. 
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+I plan on creating a post once every few months and I hope you find it helpful.
 
-##### may u needs ✨
+##### contact info ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}

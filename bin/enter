@@ -1,0 +1,5 @@
+#!/bin/bash
+
+docker run -v $(pwd):/home/wesley \
+           -p 4000:4000 \
+           -it wuykimpang/jekyll:latest /bin/bash
