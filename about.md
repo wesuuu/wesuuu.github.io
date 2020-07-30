@@ -6,11 +6,11 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-Hello peeps, 
+Hello peeps,
 
-I'm a person amazed by technology. It's fascinating we can find mathematical patterns and represent them using technology to achieve a particular purpose. This blog hopes to detail some of that fascination along with some practical tutorials and advice on accomplishing narrowly focused objectives. 
+I'm a person amazed by technology. It's fascinating we can find mathematical patterns and represent them using technology to achieve a particular engineering goal. This blog hopes to detail some of that fascination along with some practical tutorials and advice on accomplishing narrowly focused objectives.
 
-I plan on creating a post once every few months and I hope you find it helpful.
+I plan on updating this blog whenever I have some spare time!
 
 ##### contact info ✨
 
